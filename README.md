@@ -16,6 +16,11 @@ PENDIENTE
   </p>
 <br>
 
+<h2 >Education 📚</h2>
+<p>
+    
+</p>
+
 <h2 >Analytics 📊</h2>
 
 <p>
@@ -33,21 +38,48 @@ PENDIENTE
     <a href="#"><img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"></a>
 </p>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Database ⚡</h2>
 <p>
-    <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 </p>
 
+<h2 >Design 🖍</h2>
+<p>
+    <a href="#"><img alt="Adobe_fter_affects" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"></a>
+    <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+    <a href="#"><img alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"></a>
+</p>
+
+<h2 >Microsoft 💻 </h2>
+<p>
+    <a href="#"><img alt="Microsoft_Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft_PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft_Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft_SharePoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"></a>
+</p>
+
+<h2 >Workflow Platforms ⏱️</h2>
+<p>
+    <a href="#"><img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"></a>
+    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
+</p>
+
+<h2 >Other skills 🚀</h2>
+<p>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
+    <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+    <a href="#"><img alt="Godot_Engine" src="https://img.shields.io/badge/Godot_Engine-478cbf?style=for-the-badge&logo=godotengine&logoColor=%23ffffff"></a>
+</p>
 
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2 >Projectss👨🏻‍💻</h2>
 
 <table align="left" >
 <tr border="none">
@@ -113,7 +145,7 @@ PENDIENTE
 
 <div align='center'>
 
-## <b>Gracias por visitar...✨</b>
+## <b>Thanks for watching...✨</b>
 
 </div>
 <br>
