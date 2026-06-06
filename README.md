@@ -94,76 +94,137 @@ My long-term goal is to build solutions that make technology and business growth
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Projects👨🏻‍💻</h2>
+<h2>Projects 👨🏻‍💻</h2>
 
-<h3>🚀 Featured Projects</h3>
+<table>
+<tr>
 
-<ul>
+<td align="center" width="33%">
 
-<li>
-<b>None Project</b><br>
-Long-term initiative focused on helping entrepreneurs and small businesses grow through operations, technology, data and marketing.
-</li>
+<a href="LINK_DEL_REPOSITORIO">
 
-<li>
-<b>Portfolio Website</b><br>
-Personal portfolio showcasing projects, skills and professional development.
-</li>
+<img src="images/none-project.png" width="100%">
 
-<li>
-<b>Marketing Analytics</b><br>
-Data analysis and visualization projects focused on marketing performance and business insights.
-</li>
+<br>
 
-<li>
-<b>Business Processes</b><br>
-Documentation and process frameworks designed to improve organization and efficiency for small businesses.
-</li>
+<b>NONE PROJECT</b>
 
-<li>
-<b>Small Business Toolkit</b><br>
-Collection of tools, templates and resources intended to support entrepreneurs and growing businesses.
-</li>
+<br>
 
-</ul>
+Operations • Technology • Growth
 
-<h3>🎯 Areas of Development</h3>
+</a>
 
-<ul>
+</td>
 
-<li>Business Operations & Process Design</li>
+<td align="center" width="33%">
 
-<li>Data Analytics & Business Intelligence</li>
+<a href="LINK_DEL_REPOSITORIO">
 
-<li>Web Development & Digital Solutions</li>
+<img src="images/ai-content-studio.png" width="100%">
 
-<li>Marketing & Growth Systems</li>
+<br>
 
-<li>Automation & Productivity Tools</li>
+<b>AI CONTENT STUDIO</b>
 
-<li>Technology for Small Businesses</li>
+<br>
 
-</ul>
+Digital Media • AI • Business
+
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="LINK_DEL_REPOSITORIO">
+
+<img src="images/employee-platform.png" width="100%">
+
+<br>
+
+<b>EMPLOYEE PLATFORM</b>
+
+<br>
+
+HR • Operations • SaaS
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+<a href="LINK_DEL_REPOSITORIO">
+
+<img src="images/ai-generator.png" width="100%">
+
+<br>
+
+<b>AI VISUAL GENERATOR</b>
+
+<br>
+
+Machine Learning • Creative Tools
+
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="LINK_DEL_REPOSITORIO">
+
+<img src="images/event-audio-brand.png" width="100%">
+
+<br>
+
+<b>EVENT AUDIO BRAND</b>
+
+<br>
+
+Marketing • Branding • Growth
+
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="LINK_DEL_REPOSITORIO">
+
+<img src="images/digital-publishing.png" width="100%">
+
+<br>
+
+<b>DIGITAL PUBLISHING</b>
+
+<br>
+
+KDP • Digital Products • Automation
+
+</a>
+
+</td>
+
+</tr>
+</table>
 
       
 </td>
-  
-</tr>
-</table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
-
-</div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
 <br>
+
+</p>
+
 
 <div align='center'>
 
