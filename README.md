@@ -197,21 +197,21 @@ Internal management and inventory solution for small businesses.
 
 <td align="center" width="33%">
 
-<a href="https://github.com/TU_USUARIO/EL_PERRO_STUDIO">
+<a href="https://github.com/TU_USUARIO/SERVICIOS_ARTEMIS">
 
-<img src="images/el-perro-studio.png" width="100%">
-
-<br>
-
-<b>EL PERRO STUDIO</b>
+<img src="images/servicios-artemis.png" width="100%">
 
 <br>
 
-Digital Media • AI • Business
+<b>Servicios para Eventos Artemis</b>
+
+<br>
+
+Events • Operations • Vendor Network
 
 <br><br>
 
-Creative media and AI-focused digital projects.
+A service that connects and organizes event vendors, helping third parties coordinate reliable services more efficiently.
 
 </a>
 
@@ -219,21 +219,21 @@ Creative media and AI-focused digital projects.
 
 <td align="center" width="33%">
 
-<a href="https://github.com/TU_USUARIO/AI_VISUAL_GENERATOR">
+<a href="https://github.com/TU_USUARIO/APOLLO_INSUMOS">
 
-<img src="images/ai-generator.png" width="100%">
-
-<br>
-
-<b>AI VISUAL GENERATOR</b>
+<img src="images/apollo-insumos.png" width="100%">
 
 <br>
 
-Machine Learning • Creative Tools
+<b>Apollo Insumos</b>
+
+<br>
+
+E-Commerce • Amazon FBA • Party Supplies
 
 <br><br>
 
-Experimental project for visual content generation using AI.
+An online store specializing in party supplies, leveraging Amazon FBA and dropshipping to deliver products efficiently.
 
 </a>
 
@@ -255,21 +255,19 @@ KDP • Digital Products • Automation
 
 <br><br>
 
-Independent publishing initiative focused on digital products and educational content.
+Independent publishing initiative focused on digital products, books and educational content.
 
 </a>
 
 </td>
 
 </tr>
-</table>
-</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-📧 Email: your@email.com
+📧 Email: nickolsc.correo@email.com
 
 💼 LinkedIn: https://linkedin.com/in/your-profile
 
